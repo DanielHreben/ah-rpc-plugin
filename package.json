@@ -1,0 +1,15 @@
+{
+  "name": "ah-rpc-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actionhero": "^13.3.2",
+    "yarpc": "git+https://github.com/SDSWanderer/yarpc.git"
+  }
+}

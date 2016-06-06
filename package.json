@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "actionhero": "^13.3.2",
-    "yarpc": "git+https://github.com/SDSWanderer/yarpc.git"
+    "yarpc": "git+http://gitlab.uapay.ua/UAPAY_NG_LIBS/yarpc.git"
   }
 }

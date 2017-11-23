@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "actionhero": "^13.3.2",
+    "actionhero": "^18.0.2",
     "yarpc": "git+http://gitlab.uapay.ua/UAPAY_NG_LIBS/yarpc.git"
   }
 }
